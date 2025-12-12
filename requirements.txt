@@ -1,0 +1,19 @@
+
+# Core database drivers
+pymongo>=4.0.0
+cassandra-driver>=3.25.0
+redis>=4.5.0
+neo4j>=5.0.0,<6.0.0
+
+# Lightweight utilities
+click>=8.0
+pytest>=7.0
+python-dotenv>=1.0
+
+# Optional (may require platform-specific wheels): numpy, pandas, geopandas, shapely
+# Install these only if needed in your environment:
+# pip install "numpy>=1.24,<2.0" "pandas>=2.0,<3.0" geopandas shapely
+
+# Web API
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
