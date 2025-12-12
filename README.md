@@ -28,7 +28,7 @@ python scripts/update_neo4j.py sensors.jsonl
 For a complete demo with real MongoDB, Cassandra, Redis, and Neo4j instances:
 
 1. **Set up databases** (using Docker):
-   - See `[DEMO_SETUP.md](https://github.com/raiiihan/nosql-pasture-management/blob/master/START_HERE.md)` for step-by-step instructions with Docker commands
+   - See [DEMO_SETUP.md](https://github.com/raiiihan/nosql-pasture-management/blob/master/START_HERE.md) for step-by-step instructions with Docker commands
 
 2. **Copy environment file** and configure connection strings:
 ```bash
