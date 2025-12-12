@@ -2,6 +2,12 @@
 
 This repository contains a complete project scaffold for the final NoSQL assignment: designing and implementing a multi-database pipeline (MongoDB, Cassandra, Redis, Neo4j) to analyze pasture quality and recommend actions for farmers.
 
+Here's the URL for the demo site
+https://nosql-pasture.netlify.app/
+
+Here's the link to the repo
+https://github.com/raiiihan/nosql-pasture-management
+
 ## Quick Start (Dry-Run)
 
 1. Install dependencies:
